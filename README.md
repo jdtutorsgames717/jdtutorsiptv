@@ -4,8 +4,19 @@
 #EXTINF: 0, BAND SPORT
 #EXTVLCOPT: cache da rede = 1000
 http://tv.factoryiptv.com/gil148/gil148/50613 
- 
- 
+
+#EXTINF: 0,SPORT TV
+#EXTVLCOPT: cache da rede = 1000
+http://tv.factoryiptv.com/gil148/gil148/37256
+#EXTINF: 0, ESPN EXTRA
+#EXTVLCOPT: cache da rede = 1000
+http://tv.factoryiptv.com/gil148/gil148/41977
+#EXTINF: 0,SPORT TV 2
+#EXTVLCOPT: cache da rede = 1000
+http://tv.factoryiptv.com/gil148/gil148/37044
+#EXTINF: 0,FOX SPORT 2
+#EXTVLCOPT: cache da rede = 1000
+http://tv.factoryiptv.com/gil148/gil148/36971
 #EXTINF: 0, COMBATE
 #EXTVLCOPT: cache da rede = 1000    
 http://tv.factoryiptv.com/gil148/gil148/37119 
@@ -17,7 +28,7 @@ http://tv.factoryiptv.com/gil148/gil148/37104
 #EXTINF: 0,FOX SPORT 2
 #EXTVLCOPT: cache da rede = 1000
  http://tv.factoryiptv.com/gil148/gil148/37044 
- 
+
 #EXTINF: 0, FOX SPORT
 #EXTVLCOPT: cache da rede = 1000
 http://tv.factoryiptv.com/gil148/gil148/37098 
@@ -54,12 +65,16 @@ http://tv.factoryiptv.com/gil148/gil148/37012
  
 #EXTINF: 0, TELECINE PREMIUM
 #EXTVLCOPT: cache da rede = 1000
-http://acess.goldpremium.xyz:25461/tvonlinev9/free/7121
+http://acess.goldpremium.xyz:25461/tvonlinev9/f
+
+ree/7121
  
  
 #EXTINF: 0, TCM
 #EXTVLCOPT: cache da rede = 1000
-http://acess.goldpremium.xyz:25461/tvonlinev9/free/7111
+http://acess.goldpremium.xyz:25461/tvonlinev9/f
+
+ree/7111
  
  
  
@@ -145,7 +160,16 @@ http://tv.factoryiptv.com/gil148/gil148/63634
 #EXTINF: 0, GLOOB
 #EXTVLCOPT: cache da rede = 100
 http://tv.factoryiptv.com/gil148/gil148/37089 
- 
+
+#EXTINF: 0, CHAVES 24H
+#EXTVLCOPT: cache da rede = 100
+http://tv.factoryiptv.com/gil148/gil148/39762
+#EXTINF: 0, PEPA PIG 24H
+#EXTVLCOPT: cache da rede = 100
+http://tv.factoryiptv.com/gil148/gil148/39572
+#EXTINF: 0, DESENHOS BIBLICOS 24H
+#EXTVLCOPT: cache da rede = 100
+http://tv.factoryiptv.com/gil148/gil148/39780
  
  
 #EXTINF: 0, ANIMAL PLANET
